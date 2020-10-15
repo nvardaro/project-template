@@ -1,4 +1,5 @@
 This is a test
+Decided that I needed to add another line as a test
 
 # project-template
 
