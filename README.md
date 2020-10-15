@@ -1,7 +1,3 @@
-# daft punk lyrics
-One more time!!!
-Music has me feeling so free, gonna celebrate!
-
 # project-template
 
 This is a skeleton you can use to start your projects
