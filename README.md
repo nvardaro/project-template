@@ -1,5 +1,6 @@
-This is a test
-Decided that I needed to add another line as a test
+# daft punk lyrics
+One more time!!!
+Music has me feeling so free, gonna celebrate!
 
 # project-template
 
