@@ -1,6 +1,6 @@
 # daft punk lyrics
 One more time!!!
-Must has me feeling so free, gonna celebrate!
+Music has me feeling so free, gonna celebrate!
 
 # project-template
 
